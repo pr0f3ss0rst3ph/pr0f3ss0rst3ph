@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pr0f3ss0rst3ph - Stephon Fraser
-- 👀 I’m interested in Website Development and iOS Development
-- 🌱 I’m currently learning Swift
+- 👀 I’m a website developer from Georgetown, Guyana
+- 🌱 I’m currently learning Swift and React JS
 - 📫 How to reach me (Hashnode: @stephcodes, Instagram: @steph.codes, Twitter: @steph_codes)
 
 <!---
